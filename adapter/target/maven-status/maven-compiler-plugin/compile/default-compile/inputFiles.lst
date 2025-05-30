@@ -1,0 +1,10 @@
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\view\ConsoleView.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\Main.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\controller\legacy\LegacyNotificationSender.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\model\Message.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\controller\MessageController.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\controller\adapter\TelegramSender.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\controller\legacy\LegacySmsSender.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\model\User.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\controller\adapter\SenderAdapter.java
+D:\Users\W11\Documents\PPP08\adapter\src\main\java\adapterproject\controller\adapter\SmsSender.java

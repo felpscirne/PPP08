@@ -1,0 +1,12 @@
+adapterproject\controller\adapter\TelegramSender$TelegramMessageSender.class
+adapterproject\controller\adapter\TelegramSender.class
+adapterproject\model\User.class
+adapterproject\model\Message$MessageType.class
+adapterproject\controller\adapter\SmsSender.class
+adapterproject\Main.class
+adapterproject\view\ConsoleView.class
+adapterproject\controller\adapter\SenderAdapter.class
+adapterproject\controller\MessageController.class
+adapterproject\model\Message.class
+adapterproject\controller\legacy\LegacyNotificationSender.class
+adapterproject\controller\legacy\LegacySmsSender.class
